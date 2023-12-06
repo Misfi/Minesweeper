@@ -1,4 +1,4 @@
-# :bomb: Minesweeper :bomb:
+# 💣 Minesweeper 💣
 A simple Minesweeper game written in (almost entirely vanilla) JavaScript. 
 
 *Guest starring: Bootstrap*
